@@ -2,7 +2,7 @@
 
 * Registration Authors as normal user .. Only Admin can change the role 
 
-* Author need login to Generate Token for his/her session . - ![#f03c15] Authentication `#f03c15`
+* Author need login to Generate Token for his/her session . - !`#f03c15` Authentication `#f03c15`
 
 * Each Author can ( Get , Create , Update , Delete ) his/her project using token
 
